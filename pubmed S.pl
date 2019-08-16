@@ -3,7 +3,7 @@
 use LWP::Simple;
 
 #search term to find
-$search_term = "hiv entry";
+$search_term = "breast cancer";
 
 #replace space with +
 $search_term =~ s/\s/+/g;
